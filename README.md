@@ -1,4 +1,4 @@
-# PCAP-Network-Forensic-Report-
+# PCAP-Network-Forensic-Report
 This project was from our **2nd year, 1st semester**. We investigated a network scenario using a PCAP file to analyze traffic, protocols, and suspicious activity. The goal was to **identify the source of harassing emails** and examine the network forensics.
 
 ## Files Included
